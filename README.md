@@ -1,7 +1,7 @@
 # EDX_IBM_WEBSCRAPING
 repository with the final lessons of the IBM EDX course for webscraping.
 
-Final lessons of the web scraping course: <a href="https://learning.edx.org/course/course-v1:IBM+PY0220EN+1T2023/home>Python for Data Science Project </a> with Python promoted by IBM and hosted on EDX.
+Final lessons of the web scraping course: <a href="https://learning.edx.org/course/course-v1:IBM+PY0220EN+1T2023/home">Python for Data Science Project </a> with Python promoted by IBM and hosted on EDX.
 
 Containing the files:
 
